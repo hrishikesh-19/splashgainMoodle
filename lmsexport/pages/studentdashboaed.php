@@ -302,7 +302,7 @@ if ($courses) {
                                             </div>
 
                                         </div>
-                                        <footer class="copyright-area">&nbsp;> </footer>
+                                        <footer class="copyright-area"> </footer>
 
         </form>
     </div>
