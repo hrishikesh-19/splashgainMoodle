@@ -25,7 +25,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'local_lmsexport';
-$plugin->version   = 2019031100;
+$plugin->version   = 2019031101;
 $plugin->requires  = 2016052300;        // See http://docs.moodle.org/dev/Moodle_Version.
 $plugin->release   = '1.0.0';           // Human-friendly version name.
 $plugin->maturity  = MATURITY_STABLE;   // This version's maturity level.
